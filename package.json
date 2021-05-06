@@ -26,7 +26,7 @@
     "file-loader": "^6.0.0",
     "haversine": "^1.1.0",
     "html-webpack-plugin": "^3.2.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "pigeon-draggable": "^0.1.1",
     "pigeon-maps": "^0.16.1",
     "pigeon-marker": "^0.3.4",
